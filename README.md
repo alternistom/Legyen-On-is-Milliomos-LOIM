@@ -1,3 +1,15 @@
+# Legyen-On-is-Milliomos-LOIM
+Legyen Ön is Milliomos
+
+The base is from here:
+https://github.com/aaronnech/Who-Wants-to-Be-a-Millionaire
+
+I have localized to hungarian and expanded it with new sound clips and enhancements.
+Still work in progress!
+
+
+# This is the Original readme:
+
 # Usage
 
 To "install" this game, you will need a simple webserver that can serve static files (Apache will do). You simply upload this git repository into a folder on the web server, and access index.html in your browser.
