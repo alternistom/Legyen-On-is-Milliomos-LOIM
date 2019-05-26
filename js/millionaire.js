@@ -132,6 +132,10 @@ var MillionaireModel = function(data) {
 	 				});
  				} else {
  					self.level(self.level() + 1);
+					var num = self.level()
+					setTimeout(function (){
+					startSound(num.toString(), false);
+					}, 3000);
  					$("#" + elm).css('background', 'none');
 			 		$("#answer-one").show();
 			 		$("#answer-two").show();

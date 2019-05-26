@@ -3,7 +3,7 @@
 		{
 		    "questions" : [
 		        {
-		            "question" : "Hány bölcsességfogát műtötték ki Marcinnak? \\ Ile usuniętych zębów mądrości ma Marcin?",
+		            "question" : "Hány bölcsességfogát műtötték ki Marcinnak? / Ile usuniętych zębów mądrości ma Marcin?",
 		            "content" : [
 		                "1",
 		                "2",
@@ -13,144 +13,144 @@
 		            "correct" : 1
 		        },
 		        {
-		            "question" : "On a radio, stations are changed by using what control?",
+		            "question" : "Mi volt a jele Marcinnak az oviban? / Jaki znak (podpis) Marcin miał w przedszkolu?",
 		            "content" : [
-		                "Tuning",
-		                "Volume",
-		                "Bass",
-		                "Treble"
-		            ],
-		            "correct" : 0
-		        },
-		        {
-		            "question" : "Which material is most dense?",
-		            "content" : [
-		                "Silver",
-		                "Styrofoam",
-		                "Butter",
-		                "Gold"
+		                "Ásó / Łopatka",
+		                "Kapa / Motyka",
+		                "Nagyharang / Dzwonek",
+		                "Nem volt jele / Nie miał żadnego znaku"
 		            ],
 		            "correct" : 3
 		        },
 		        {
-		            "question" : "Which state in the United States is largest by area?",
+		            "question" : "Hány testvére házas Marcinnak? / Ile spośród rodzeństwa Marcina wyszło za mąż lub ożeniło się?",
 		            "content" : [
-		                "Alaska",
-		                "California",
-		                "Texas",
-		                "Hawaii"
+		                "Az összes / Wszyscy",
+		                "2",
+		                "3",
+		                "Egy sem / Nikt"
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "What is Aurora Borealis commonly known as?",
+		            "question" : "Melyik ételt szereti Marcin? / Jakie jedzenie lubi Marcin?",
 		            "content" : [
-		                "Fairy Dust",
-		                "Northern Lights",
-		                "Book of ages",
-		                "a Game of Thrones main character"
+		                "Töpörtyű / Skwarki",
+		                "Disznósajt / Salceson",
+		                "Máj / Wątróbka",
+		                "Pacalpörkölt / Gulasz"
 		            ],
-		            "correct" : 1
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Milyen eseményen beszélgetett egymással először Marcin és Lulu? / Podczas którego wydarzenia Marcin i Lulu rozmawiali ze sobą po raz pierwszy?",
+		            "content" : [
+		                "Esküvő / Ślub",
+		                "Gyereknap / Dzień dziecka",
+		                "Szemétszedés / Dzień sprzątania świata",
+		                "Konferencia / Konferencja"
+		            ],
+		            "correct" : 0
 		        },
 				{
-				    "correct": 3,
+				    "correct": 1,
 				    "content": [
-				        "developed the telescope",
-				        "discovered four satellites of Jupiter",
-				        "discovered that the movement of pendulum produces a regular time measurement",
-				        "All of the above"
+				        "Lengyelország / W Polsce",
+				        "Magyarország / Na Węgrzech",
+				        "Finnország / W Finlandi",
+				        "Kína / W Chinach"
 				    ],
-				    "question": "Galileo was an Italian astronomer who"
+				    "question": "Hol fog élni Marcin és Lulu az esküvő után? /  Gdzie Lulu i Marcin będą żyć po ślubie?"
 				},
 				{
-				    "correct": 3,
+				    "correct": 2,
 				    "content": [
-				        "the infrared light kills bacteria in the body",
-				        "resistance power increases",
-				        "the pigment cells in the skin get stimulated and produce a healthy tan",
-				        "the ultraviolet rays convert skin oil into Vitamin D"
+				        "Marcin gyűrűje 2 számmal nagyobb Luluénál / Obrączka Marcina jest o 2 rozmiary większa od obrączki Lulu",
+				        "Lulu gyűrűje 1 számmal nagyobb Marcinénál / Obrączka Lulu jest o 1 rozmiar większa od obrączki Marcina",
+				        "Marcin gyűrűje fél számmal nagyobb Luluénál / Obrączka Marcina jest o pół rozmiaru większa od obrączki Lulu",
+				        "Nem merik elmondani / Nie powiedzieli"
 				    ],
-				    "question": "Exposure to sunlight helps a person improve his health because"
+				    "question": "Mekkora a méretkülönbség az eljegyzésigyűrűjük között? / Jaka jest różnica w rozmiarze ich obrączek ślubnych?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "a club or a local sport association for remarkable achievements",
-				        "amateur athlete, not necessarily an Olympian",
-				        "National Olympic Committee for outstanding work",
-				        "None of the above"
+				        "Virággal és Tantum Verde-vel / Kwiatami i Tantum Verde",
+				        "Virággal és csokival / Kwiatami i czekoladkami",
+				        "Csokival és KFC menüvel / Czekoladkami i KFC",
+				        "Swarovski ékszerekkel / Biżuterią Swarovski"
 				    ],
-				    "question": "Sir Thomas Fearnley Cup is awarded to"
+				    "question": "Mivel ajándékozza meg Marcin leggyakrabban Lulut? / Czym Marcin najczęściej obdarowuje Lulu?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Gyros",
+				        "Kínai kaja / Chińszczyzna",
+				        "Kenyérlángos",
+				        "KFC"
+				    ],
+				    "question": "Milyen gyorsételt fogyasztanak a leggyakrabban? / Jaki fast food jest ich najczęstszym daniem?"
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "1968",
-				        "1929",
-				        "1901",
-				        "1965"
+				        "Karácsony / Święta",
+				        "Születésnap / Urodziny",
+				        "Gyereknap / Dzień dziecka",
+				        "A Pókember - Hazatérés premierjén / Premiera Spidermana w kinach"
 				    ],
-				    "question": "Oscar Awards were instituted in"
+				    "question": "Milyen alkalomból kérte meg Marcin Lulu kezét? / Z jakiej okazji Marcin poprosił Lulu o rękę?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "1998",
-				        "1989",
-				        "1979",
-				        "1800"
+				        "Polszki / Polski",
+				        "Polka",
+				        "Poloska",
+				        "Polszka / Polska"
 				    ],
-				    "question": "When did Margaret Thatcher became the first female Prime Minister of Britain?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "15th April",
-				        "12th December",
-				        "1st May",
-				        "1st August"
-				    ],
-				    "question": "When is the International Workers' Day?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "1962",
-				        "1963",
-				        "1964",
-				        "1965"
-				    ],
-				    "question": "When did China test their first atomic device?"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "1904",
-				        "1905",
-				        "1908",
-				        "1909"
-				    ],
-				    "question": "When did Commander Robert Peary discover the North Pole?"
+				    "question": "Melyik a kakukktojás? / Które słowo nie pasuje do pozostalych?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "819/sq. km",
-				        "602/sq. km",
-				        "415/sq. km",
-				        "500/sq. km"
+				        "Sapka - Czapka",
+				        "Gyík - Dzik",
+				        "Terasz - Teraz",
+				        "Tutaj - Tutaj"
 				    ],
-				    "question": "What is the population density of Kerala?"
+				    "question": "Melyik magyar-lengyel szópárnak azonos a jelentése? / Która polsko-węgierska para słów ma takie same znaczenie?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Trottyos / Kiczowaty",
+				        "Susnyás / Zarośla",
+				        "Köpcös / Krępy",
+				        "Lelkiismeretfurdalás / Wyrzuty sumienia"
+				    ],
+				    "question": "Melyik magyar szót nem ismeri Marcin? / Którego węgierskiego słowa nie zna Marcin?"
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "4 km",
-				        "25 km",
-				        "500 m to 9 km",
-				        "150 km"
+				        "Kinga",
+				        "Hedvig / Jadwiga",
+				        "Mária / Maria",
+				        "Kunigunda / Kunegunda"
 				    ],
-				    "question": "What is the range of missile 'Akash'?"
+				    "question": "Melyik lengyel királynő volt magyar származású? / Która polska królowa miała węgierskie pochodzenie?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "Borokabogyó / Jagoda jałowca",
+				        "Köménymag / Kminek",
+				        "Szegfűszeg / Goździk",
+				        "Curry"
+				    ],
+				    "question": "Melyik fűszert nem bírja Lulu? / Jakiej przyprawy Lulu nie lubi?"
 				}
 		    ]
 		},
