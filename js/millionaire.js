@@ -80,6 +80,7 @@ var MillionaireModel = function(data) {
  		if(self.transitioning)
  			return;
  		$(event.target).fadeOut('slow');
+		startSound('felez', false);
  		var correct = this.questions[self.level() - 1].correct;
  		var first = (correct + 1) % 4;
  		var second = (first + 1) % 4;
@@ -151,9 +152,12 @@ var MillionaireModel = function(data) {
  	self.wrongAnswer = function(elm) {
  		$("#" + elm).slideUp('slow', function() {
  			startSound('wrongsound', false);
+			setTimeout(function (){
+			startSound('sajnalom', false);
+			}, 4500);
  			$("#" + elm).css('background', 'red').slideDown('slow', function() {
  				$("#game").fadeOut('slow', function() {
- 					$("#game-over").html('Hát ez nem sikerült!');
+ 					$("#game-over").html('Borzasztóan sajnálom!');
  					$("#game-over").fadeIn('slow');
  					self.transitioning = false;
  				});
@@ -180,8 +184,12 @@ $(document).ready(function() {
 			var index = $('#problem-set').find(":selected").val() - 1;
 			ko.applyBindings(new MillionaireModel(data.games[index]));
 			$("#pre-start").fadeOut('slow', function() {
-				startSound('background', true);
-				$("#game").fadeIn('slow');
+				startSound('1', false);
+				setTimeout(function (){
+				startSound('background', false);
+				}, 18000);
+				
+				$("#game").delay(18000).fadeIn('slow');
 			});
 		});
 	});
