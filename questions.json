@@ -157,154 +157,154 @@
 		{
 		    "questions" : [
 		        {
-		            "question" : "In the U.S., if it's not Daylight Saving Time, it's what?",
+		            "question" : "Milyen ruhadarabot nem nagyon szeret hordani Lulu? / Jakiej części odzieży Lulu nie lubi za bardzo nosić?",
 		            "content" : [
-		                "Borrowed time",
-		                "Overtime",
-		                "Standard time",
-		                "Party time"
-		            ],
-		            "correct" : 2
-		        },
-		        {
-		            "question" : "Which part of the body are you most likely to \"stub\"?",
-		            "content" : [
-		                "Toe",
-		                "Knee",
-		                "Elbow",
-		                "Brain"
-		            ],
-		            "correct" : 0
-		        },
-		        {
-		            "question" : "Which country is largest by area?",
-		            "content" : [
-		                "UK",
-		                "USA",
-		                "Russia",
-		                "China"
-		            ],
-		            "correct" : 2
-		        },
-		        {
-		            "question" : "What does the \"F\" stand for in FBI?",
-		            "content" : [
-		                "Foreign",
-		                "Federal",
-		                "Flappy",
-		                "Face"
+		                "Szoknya / Spódnica",
+		                "Nadrág / Spodnie",
+		                "Zokni / Skarpetki",
+		                "Sál / Szalik"
 		            ],
 		            "correct" : 1
 		        },
 		        {
-		            "question" : "The US declared war on which country after the bombing of Pearl Harbor?",
+		            "question" : "Minek nevezte Lulu az első laptopját? / Jak się nazywał pierwszy laptop Lulu?",
 		            "content" : [
-		                "Japan",
-		                "Russia",
-		                "Germany",
-		                "China"
+		                "Debella",
+		                "Ludmilla",
+		                "Brünhilda",
+		                "Klodild"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Milyen idézetet gravíroztatott Lulu és Marcin a gyűrűjükbe? / Jakie zdanie Lulu i Marcin wygrawerowali w środku swych obrączek ślubnych?",
+		            "content" : [
+		                "Lengyel, magyar - két jó barát. Együtt harcol, s issza borát. / Polak, węgier - dwa bratanki, i do szabli, i do szklanki.",
+		                "Bízzál az Úrban teljes szívből, és ne a magad eszére támaszkodj! / Ufaj PANU z całego swego serca i nie polegaj na swoim rozumie.",
+		                "Ha egy szobában a vezető a legokosabb ember, komoly problémái vannak. / Jeśli jesteś liderem i najmądrzejszym gościem na świecie - w pokoju, masz poważne problemy.",
+		                "Sokkal jobban van dolga a kettőnek, hogynem az egynek... / Lepiej jest dwom niż jednemu..."
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Mi a lengyel zapiekanka? / Czym jest polska zapiekanka?",
+		            "content" : [
+		                "Zabkása / Owisianka",
+		                "A lengyel népviseletben használt mellény elnevezése / Część polskiego stroju ludowego",
+		                "Egy különleges melegszendvics / Przękąska",
+		                "Fakopáncs / Dzięcioł"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Mikor volt az első visegrádi találkozó? / Kiedy miał miejsce pierwszy zjazd w Wyszehradzie?",
+		            "content" : [
+		                "1335",
+		                "2018",
+		                "J.e. 300 / 300 p.n.e.",
+		                "1751"
 		            ],
 		            "correct" : 0
 		        },
 				{
-				    "correct": 0,
+				    "correct": 1,
 				    "content": [
-				        "Letter of Credit (L/C)",
-				        "laissezfaire",
-				        "inflation",
-				        "None of the above"
+				        "Futni / Biegać",
+				        "Énekelni / Śpiewać",
+				        "Iratokat rendezni / Porządkować dokumenty",
+				        "Zoknit teregetni / Dobierać skarpetki w pary"
 				    ],
-				    "question": "A guarantee to an exporter that the importer of his goods will pay immediately for the goods ordered by him, is known as"
+				    "question": "Az alábbiak közül mit szeret Lulu a leginkább csinálni? / Co Lulu lubi najbardziej robić z poniższych rzeczy?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Őrölt paprika / Zmielonej papryki",
+				        "Köménymag / Kminku",
+				        "Gulyás / Pasterz",
+				        "Burgonya / Ziemniaków"
+				    ],
+				    "question": "Melyik összetevő nem kell a Gulyás levesbe? / Którego składniku nie potrzeba dodawać do zupy gulaszowej?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "Pudinggal / Pudding",
+				        "Tökfőzelékkel / Kremem z dyni",
+				        "Fogkrémmel / Krem z cebuli",
+				        "Nutellával / Nutella"
+				    ],
+				    "question": "Mivel töltötte meg a palacsintáját Lulu, amikor kicsi volt? / Jakie nadzienie Lulu użyła w swoim naleśniku gdy była mała?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "Visible light",
-				        "Infrared radiation",
-				        "X-rays and gamma rays",
-				        "Ultraviolet radiation"
+				        "Ziaja",
+				        "Wawel",
+				        "Lasocki",
+				        "Greenfield"
 				    ],
-				    "question": "The ozone layer restricts"
+				    "question": "Melyik a kakukktojás? / Które słowo nie pasuje do pozostalych?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "the first Buddhist pilgrim of China to visit India during the reign of Chandragupta Vikramaditya",
-				        "the discoverer of Puerto Rico and Jamaica",
-				        "the first Buddhist pilgrim of India to visit China",
-				        "None of the above"
+				        "Hit, remény szeretet / Wiara, nadzieja, miłość",
+				        "Nyugi! / Wyluzuj!",
+				        "Kövessd a szíved! / Podążaj za swym sercem!",
+				        "Just do it! / Just do it!"
 				    ],
-				    "question": "Fa-Hien was"
+				    "question": "Mi van arra a szatyorra írva, amit Marcin Lulutól kapott? / Co jest napisane na torbie na zakupy, którą Marcin dostał od Lulu?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Magyarul tanulni / Uczyć się węgierskiego",
+				        "Hogy meggazdagodjon / Żeby stać się bogatym",
+				        "Hogy megházasodjon / Żeby ożenić się",
+				        "Hogy tanuljon a Bibliaiskolában / Żeby uczyć się w Szkole Biblijnej"
+				    ],
+				    "question": "Miért jött Marcin Magyarországra? / Dlaczego Marcin przyjechał na Węgry?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "Szépség és a szörnyeteg / Piękna i bestia",
+				        "Star Wars",
+				        "Hihetetlen Család 2 / Iniemamocni 2",
+				        "Diótörő / Dziadek do orzechów i cztery królestwa"
+				    ],
+				    "question": "Melyik filmet nézték meg először együtt a moziba? / Który film jako pierwszy Marcin i Lulu wspólnie obejrzeli w kinie?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "Harvard",
-				        "University of Washington",
-				        "Yale",
-				        "Oxford"
+				        "Piros és fehér csík / Czerwony i biały pas",
+				        "A kettőskereszt / Podwójny krzyrz",
+				        "Mindkettőn korona van / Obie mają korony",
+				        "A zöld és piros csík / Zielony i czerwony pas"
 				    ],
-				    "question": "What was the first university in the United States"
+				    "question": "Mi a közös a magyar és a lengyel zászlóban? / Co wspólnego mają ze sobą flagi Węgier i Polski?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Mirski Marcinné",
+				        "Mirskiné Szabó Julianna",
+				        "Megtartotta a leánykori nevét / I NEED THE POLISH SENTENCE :D",
+				        "Mirski-Szabó Julianna"
+				    ],
+				    "question": "Mi Lulu férjezett neve? / Jakie jest nowe imię Lulu?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "The amount of energy it takes to move an electron through a potential difference of 1 volt",
-				        "The number of volts it takes to move an electon a meter",
-				        "The number of electrons it takes to kill a human being",
-				        "The flux of current through a surface parallel to a capacitor"
+				        "Zongorán / Na pianinie",
+				        "Az idegeimen / Na nerwach Lulu",
+				        "Gitár / Na gitarze",
+				        "A szívem húrjain / Na strunach mego serca"
 				    ],
-				    "question": "An electron volt is"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "14th November",
-				        "11th December",
-				        "15th October",
-				        "1st July"
-				    ],
-				    "question": "When is the World's Diabetes Day?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "Kelvin",
-				        "Celsius",
-				        "Centigrade",
-				        "Fahrenheit"
-				    ],
-				    "question": "What is the S.I. unit of temperature?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "July 21, 1969",
-				        "July 21, 1970",
-				        "July 21, 1963",
-				        "July 21, 1972"
-				    ],
-				    "question": "When did US astronauts Neil Armstrong and Edwin E. Aldrin land on the moon?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "the density of milk increases",
-				        "the density of milk decreases",
-				        "the density of milk remains unchanged",
-				        "it becomes more viscous"
-				    ],
-				    "question": "When cream is separated from milk"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "1999",
-				        "1989",
-				        "1979",
-				        "1969"
-				    ],
-				    "question": "When did 19 NATO members and 11 'Partners for Peace' join hands for peace plan for Kosovo Crisis?"
+				    "question": "Min játszik Marcin? / Na czym gra Marcin?"
 				}
 		    ]
 		},
